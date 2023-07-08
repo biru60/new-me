@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.head {
+    background-image: url(/images/banner/banner3.png);
+    /* height: 800px;
+    width: 1600px; */
+    background-size: cover;
+    padding: 216px 200px 262px 875px;
+    text-align: end;
+}
+
+.header-title {
+    font-size: 65px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.header-description {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+.head button {
+    border: none;
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: #005FAC;
+    font-size: 20px;
+    font-family: Work Sans;
+    font-weight: 600;
+    margin-top: 20px;
+
+}
+
+.failure {
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.image {
+    margin-left: 150px;
+}
+
+.failure-container {
+    margin-top: 180px;
+    margin-right: 250px;
+
+}
+
+.failure-title {
+    padding-right: 100px;
+    color: #151414;
+    font-size: 40px;
+
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.failure-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.my-plan {
+    margin-top: 80px;
+}
+
+.plan-title {
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-family: Work Sans;
+    font-weight: 700;
+}
+.my-plan-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+
+}
+.picture{
+    padding-left: 25px;
+}
+.my-plan-title{
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+.my-plan-description{
+    color: #737272;
+font-size: 25px;
+font-weight: 500;
+}
+.be-positive{
+    background-image: url(/images/gradient1.png), url(/images/watch.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position:
+      bottom left,
+      left;
+      margin: 50px 188px;
+
+    
+    
+}
+.be-positive-title{
+    color: white;
+font-size: 40px;
+font-family: Work Sans;
+font-weight: 700;
+margin:0 150px 20px 60px ;
+padding-top: 30px;
+}
+.positive{
+    color: #005FAC;
+    font-size: 20px;
+    font-family: Work Sans;
+    font-weight: 600; 
+    margin-left:60px  ;
+    margin-bottom:40px;
+    padding: 18px 25px;
+    border-radius: 6px;
+    border: none;
+}
