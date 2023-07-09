@@ -6,7 +6,7 @@
 }
 
 .head {
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("images/banner/banner3.png");
     /* height: 800px;
     width: 1600px; */
     background-size: cover;
@@ -109,7 +109,7 @@
 }
 
 .be-positive {
-    background-image: url("/images/gradient1.png"), url("/images/watch.png");
+    background-image: url("images/gradient1.png"), url("images/watch.png");
     background-repeat: no-repeat, no-repeat;
     background-position:
         bottom left,
